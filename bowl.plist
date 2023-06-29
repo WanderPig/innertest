@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wd640.asuscomm.com:49153/Package/game.ipa</string>
+					<string>http://111.199.97.102:49153/Package/game.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xjl.idlegame</string>
+				<string>com.xjl.ef</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
